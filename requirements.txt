@@ -1,0 +1,3 @@
+browser-use==0.13.3
+python-dotenv
+gradio>=5.0.0
